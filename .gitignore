@@ -1,1 +1,11 @@
+# البيانات المحلية وقواعد البيانات
+data/
+chroma_db_english/
+*.pdf
 
+# بيئة العمل وملفات كاش بيثون
+pycache/
+*.pyc
+.env
+.venv/
+env/
